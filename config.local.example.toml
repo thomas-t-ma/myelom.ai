@@ -1,0 +1,7 @@
+# Copy this file to config.local.toml and edit it on EACH workstation.
+# config.local.toml is ignored by git.
+
+# Example Windows external SSD paths:
+data_root = "E:/MyelomAI_Data"
+
+# You may alternatively set the environment variable MYELOMAI_DATA_ROOT.
